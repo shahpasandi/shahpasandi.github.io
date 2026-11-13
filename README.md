@@ -1,6 +1,6 @@
 # shahpasandi.github.io
 
-Personal portfolio of **Mohammad Shahpasandi** (`@THE_VER1TAS`): Cybersecurity Analyst and Splunk Engineer.
+Personal portfolio of **Mohammad Shahpasandi** : Cybersecurity Analyst and Splunk Engineer.
 
 **Live site:** https://shahpasandi.github.io
 
