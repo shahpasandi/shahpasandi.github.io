@@ -29,7 +29,6 @@ A single-page, terminal-styled site that presents my resume, skills and open-sou
 ```text
 .
 ├── index.html     # the whole site (HTML + CSS + JS)
-├── resume.pdf     # linked from the resume section
 └── README.md
 ```
 
